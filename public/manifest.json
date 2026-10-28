@@ -1,0 +1,18 @@
+{
+  "short_name": "Amar AI Hub",
+  "name": "Amar AI Hub - Multilingual AI",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Mobile-friendly AI chat web app with Bengali, Hindi, and English multilingual support, powered by Google Gemini."
+}

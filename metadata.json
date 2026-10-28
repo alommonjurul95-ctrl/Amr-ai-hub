@@ -1,0 +1,6 @@
+{
+  "name": "Amar AI Hub",
+  "description": "Mobile-friendly AI chat web app with Bengali, Hindi, and English multilingual support, multiple Gemini AI models, and secure server-side processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
